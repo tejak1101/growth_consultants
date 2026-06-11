@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "phase": "Phase 1 — Foundation",
+    "task": "Discord Server Setup",
+    "tool": "Discord",
+    "status": "Done",
+    "priority": "High",
+    "notes": "Server Growth Consultants sudah dibuat"
+  },
+  {
+    "id": 2,
+    "phase": "Phase 1 — Foundation",
+    "task": "Channel Structure Created",
+    "tool": "Discord",
+    "status": "Done",
+    "priority": "High",
+    "notes": "Semua kategori dan channel dengan emoji"
+  },
+  {
+    "id": 3,
+    "phase": "Phase 1 — Foundation",
+    "task": "Admin Access Granted",
+    "tool": "Discord",
+    "status": "Done",
+    "priority": "High",
+    "notes": "Teja sudah di-admin-in oleh bos"
+  },
+  {
+    "id": 4,
+    "phase": "Phase 1 — Foundation",
+    "task": "Zapier — Discord Automations",
+    "tool": "Zapier + Discord",
+    "status": "Next",
+    "priority": "High",
+    "notes": "Connect Typeform, GHL, Stripe ke Discord"
+  },
+  {
+    "id": 5,
+    "phase": "Phase 1 — Foundation",
+    "task": "Email Service Provider (Kit)",
+    "tool": "Kit / ConvertKit",
+    "status": "Pending",
+    "priority": "Medium",
+    "notes": "Buat akun di kit.com"
+  },
+  {
+    "id": 6,
+    "phase": "Phase 1 — Foundation",
+    "task": "CRM Setup — GoHighLevel",
+    "tool": "GoHighLevel",
+    "status": "Pending",
+    "priority": "High",
+    "notes": "Setup dashboard, calendar, pipeline"
+  },
+  {
+    "id": 7,
+    "phase": "Phase 1 — Foundation",
+    "task": "Typeform Application Setup",
+    "tool": "Typeform",
+    "status": "Pending",
+    "priority": "High",
+    "notes": "DQ logic: <3K dan 3-5K"
+  },
+  {
+    "id": 8,
+    "phase": "Phase 1 — Foundation",
+    "task": "Payment Processor (Stripe)",
+    "tool": "Stripe / Whop",
+    "status": "Pending",
+    "priority": "Medium",
+    "notes": "Connect ke Zapier untuk notif"
+  },
+  {
+    "id": 9,
+    "phase": "Phase 2 — Client System",
+    "task": "Client Onboarding Process",
+    "tool": "GHL + Discord",
+    "status": "Pending",
+    "priority": "High",
+    "notes": "Buat flow onboarding terstruktur"
+  },
+  {
+    "id": 10,
+    "phase": "Phase 2 — Client System",
+    "task": "Setter Tracking Sheet",
+    "tool": "Google Sheets",
+    "status": "Pending",
+    "priority": "Medium",
+    "notes": "UTM links + tracking harian"
+  },
+  {
+    "id": 11,
+    "phase": "Phase 2 — Client System",
+    "task": "Closing Script from Offer",
+    "tool": "Docs",
+    "status": "Pending",
+    "priority": "High",
+    "notes": "2-step closing script template"
+  },
+  {
+    "id": 12,
+    "phase": "Phase 2 — Client System",
+    "task": "Closer Tracking Sheet",
+    "tool": "Google Sheets",
+    "status": "Pending",
+    "priority": "Medium",
+    "notes": "Sales tracker harian"
+  },
+  {
+    "id": 13,
+    "phase": "Phase 2 — Client System",
+    "task": "Daily Team Call Schedule",
+    "tool": "Discord + Zoom",
+    "status": "Pending",
+    "priority": "Medium",
+    "notes": "Morning check-in + evening EOD"
+  },
+  {
+    "id": 14,
+    "phase": "Phase 2 — Client System",
+    "task": "Freebie / Lead Magnet",
+    "tool": "Canva + Kit",
+    "status": "Pending",
+    "priority": "Low",
+    "notes": "Connect ke email opt-in funnel"
+  },
+  {
+    "id": 15,
+    "phase": "Phase 3 — Scale",
+    "task": "Facebook Ads Setup",
+    "tool": "Meta Ads Manager",
+    "status": "Pending",
+    "priority": "High",
+    "notes": "Untuk bisnis sendiri (bukan klien)"
+  },
+  {
+    "id": 16,
+    "phase": "Phase 3 — Scale",
+    "task": "Low-Ticket Funnel",
+    "tool": "GHL + Whop",
+    "status": "Pending",
+    "priority": "Low",
+    "notes": "#low-ticket-lead channel"
+  },
+  {
+    "id": 17,
+    "phase": "Phase 3 — Scale",
+    "task": "ManyChat IG Automation",
+    "tool": "ManyChat",
+    "status": "Pending",
+    "priority": "Medium",
+    "notes": "IG/FB DM automation"
+  },
+  {
+    "id": 18,
+    "phase": "Phase 3 — Scale",
+    "task": "Weekly Promo Schedule",
+    "tool": "Kit + IG",
+    "status": "Pending",
+    "priority": "Low",
+    "notes": "Email + IG stories promo"
+  },
+  {
+    "phase": "Phase 1 — Foundation",
+    "task": "TASK COBA",
+    "tool": "CLIKUP",
+    "status": "Pending",
+    "priority": "High",
+    "notes": "WILL BE CREATE IN A WEEK",
+    "id": 19
+  }
+]
